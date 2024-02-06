@@ -1,0 +1,9 @@
+parent_directory,is_file,name,size_in_bytes
+../Test,True,1.txt,6
+../Test,True,23new_file001.txt,4
+../Test,False,Image,0
+../Test,False,Text,0
+../Test,False,Video,0
+../Test\Image,True,34.jpg,0
+../Test\Text,True,34.txt,0
+../Test\Video,True,345.avi,0
